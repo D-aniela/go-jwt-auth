@@ -22,7 +22,7 @@
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/jwt-auth-api.git
+git clone https://github.com/D-aniela/go-jwt-auth.git
 cd jwt-auth-api
 ````
 
