@@ -23,7 +23,7 @@
 
 ```bash
 git clone https://github.com/D-aniela/go-jwt-auth.git
-cd jwt-auth-api
+cd go-jwt-auth
 ````
 
 2. Instala las dependencias:
