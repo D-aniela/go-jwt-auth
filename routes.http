@@ -1,0 +1,26 @@
+GET http://127.0.0.1:8000/user/get-user
+Content-Type: application/json
+
+###
+POST http://127.0.0.1:8000/user/register
+Content-Type: application/json
+
+{
+    "email": "abc@xyz.com",
+    "name": "JwT",
+    "password": "abc"
+}
+
+###
+POST http://127.0.0.1:8000/user/login
+Content-Type: application/json
+
+{
+    "email": "abc@xyz.com",
+    "name": "JwT",
+    "password": "abc"
+}
+
+###
+POST http://127.0.0.1:8000/user/logout
+Content-Type: application/json
